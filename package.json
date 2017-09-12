@@ -1,0 +1,27 @@
+{
+    "name": "typescriptclient",
+    "version": "0.0.1",
+    "description": "typescript client",
+    "main": "main.ts",
+    "scripts": {
+        "build": "webpack --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YaminaBoghossian/typescriptclient.git"
+    },
+    "keywords": [
+        "typescript",
+        "client"
+    ],
+    "author": "yaya",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/YaminaBoghossian/typescriptclient/issues"
+    },
+    "homepage": "https://github.com/YaminaBoghossian/typescriptclient#readme",
+    "dependencies": {
+        "ts-loader": "^2.3.7",
+        "typescript": "^2.5.2"
+    }
+}
